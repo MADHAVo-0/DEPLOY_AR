@@ -9,4 +9,5 @@ django-widget-tweaks==1.4.12  # Optional, for form rendering customization
 pythreejs==2.3.0  # Optional: For rendering 3D models in Django
 
 gunicorn==20.1.0  # Optional, for production deployment
-psycopg2==2.9.6  # For PostgreSQL database, if you're using it
+psycopg2-binary==2.9.6
+
